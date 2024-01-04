@@ -5,6 +5,7 @@ export default defineConfig({
   titleTemplate: 'Progression Framework Template',
   description: `Progression Framework`,
   lastUpdated: true,
+  base: '/progression-framework/',
   themeConfig: {
     logo: {
       light: '/icons/icon.png',
