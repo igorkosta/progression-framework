@@ -1,0 +1,26 @@
+{
+  "name": "progression-framework",
+  "version": "0.0.1",
+  "description": "Progression Framework Template",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run docs:dev",
+    "docs:dev": "vitepress dev docs",
+    "build": "npm run docs:build",
+    "docs:build": "vitepress build docs"
+  },
+  "keywords": [
+    "getbetter",
+    "improve",
+    "kick",
+    "ass",
+    "kostyuchenok",
+    "vpterra"
+  ],
+  "author": "Igor Kostyuchenok",
+  "license": "MIT",
+  "dependencies": {
+    "vitepress": "^1.0.0-alpha.26",
+    "vue": "^3.2.41"
+  }
+}
